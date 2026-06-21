@@ -1,0 +1,49 @@
+<svg viewBox="0 0 900 760" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="900" height="760" fill="#FAFAFA"/>
+<text x="40" y="36" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#2B2F36" text-anchor="start">Meridian College — AI Assistant</text>
+<text x="40" y="56" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#9AA0AA" text-anchor="start">Mobile Wireframes (Low-Fidelity) — Task 2: UI/UX Wireframing &amp; Design</text>
+<text x="60" y="86" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2B2F36" text-anchor="start">01  Login (Mobile)</text>
+<rect x="60" y="100" width="320" height="600" fill="#FFFFFF" stroke="#2B2F36" stroke-width="2" rx="18"/>
+<rect x="198.0" y="110" width="44" height="6" fill="#9AA0AA" stroke="#9AA0AA" stroke-width="1.5" rx="3"/>
+<circle cx="220.0" cy="190" r="20" fill="none" stroke="#2B2F36" stroke-width="1.8"/><text x="220.0" y="195" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#2B2F36" text-anchor="middle">M</text>
+<rect x="150.0" y="226" width="140" height="12" fill="#D8DBE0" rx="2"/>
+<rect x="175.0" y="244" width="90" height="8" fill="#EDEFF2" rx="2"/>
+<text x="84" y="284" font-family="Helvetica, Arial, sans-serif" font-size="9.5" font-weight="700" fill="#9AA0AA" text-anchor="start">USERNAME</text><rect x="84" y="290" width="272" height="32" fill="#FFFFFF" stroke="#9AA0AA" stroke-width="1.3" rx="4"/>
+<text x="84" y="338" font-family="Helvetica, Arial, sans-serif" font-size="9.5" font-weight="700" fill="#9AA0AA" text-anchor="start">PASSWORD</text><rect x="84" y="344" width="272" height="32" fill="#FFFFFF" stroke="#9AA0AA" stroke-width="1.3" rx="4"/>
+<rect x="84" y="396" width="272" height="36" fill="#2B2F36" stroke="#2B2F36" stroke-width="1.6" rx="5"/><text x="220.0" y="418.0" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">SIGN IN</text>
+<rect x="84" y="450" width="272" height="90" fill="#EDEFF2" stroke="#9AA0AA" stroke-width="1" rx="4"/>
+<rect x="98" y="464" width="244" height="8" fill="#D8DBE0" rx="2"/>
+<rect x="98" y="480" width="244" height="8" fill="#D8DBE0" rx="2"/>
+<rect x="98" y="496" width="244" height="8" fill="#D8DBE0" rx="2"/>
+<line x1="385" y1="306" x2="440" y2="280" stroke="#C0392B" stroke-width="1.2" stroke-dasharray="4,3"/><circle cx="385" cy="306" r="2.5" fill="#C0392B"/><text x="446" y="284" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#C0392B" text-anchor="start">Stacked fields,
+full-width button</text>
+<text x="460" y="86" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#2B2F36" text-anchor="start">02  Student Dashboard (Mobile)</text>
+<rect x="460" y="100" width="320" height="600" fill="#FFFFFF" stroke="#2B2F36" stroke-width="2" rx="18"/>
+<rect x="598.0" y="110" width="44" height="6" fill="#9AA0AA" stroke="#9AA0AA" stroke-width="1.5" rx="3"/>
+<rect x="460" y="124" width="320" height="44" fill="#3A3F4A" stroke="#9AA0AA" stroke-width="1.5" rx="0"/>
+<line x1="478" y1="140" x2="494" y2="140" stroke="white" stroke-width="2"/>
+<line x1="478" y1="146" x2="494" y2="146" stroke="white" stroke-width="2"/>
+<line x1="478" y1="152" x2="494" y2="152" stroke="white" stroke-width="2"/>
+<text x="510" y="150" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="start">Profile</text>
+<rect x="476" y="184" width="288" height="110" fill="#3A3F4A" stroke="#9AA0AA" stroke-width="1.5" rx="8"/>
+<circle cx="504" cy="214" r="14" fill="#5A6070"/>
+<rect x="528" y="206" width="80" height="9" fill="#6A7080" rx="2"/>
+<rect x="528" y="222" width="60" height="7" fill="#5A6070" rx="2"/>
+<rect x="484" y="254" width="256" height="6" fill="#D8DBE0" rx="2"/>
+<rect x="484" y="268" width="256" height="6" fill="#D8DBE0" rx="2"/>
+<rect x="476" y="310" width="288" height="130" fill="#FFFFFF" stroke="#9AA0AA" stroke-width="1.3" rx="4"/><rect x="476" y="310" width="288" height="26.0" fill="#EDEFF2" stroke="#9AA0AA" stroke-width="1" rx="0"/><line x1="476" y1="336.0" x2="764" y2="336.0" stroke="#9AA0AA" stroke-width="1"/><rect x="490.0" y="344.0" width="116.0" height="8" fill="#D8DBE0" rx="2"/><rect x="634.0" y="344.0" width="116.0" height="8" fill="#D8DBE0" rx="2"/><line x1="476" y1="362.0" x2="764" y2="362.0" stroke="#9AA0AA" stroke-width="1"/><rect x="490.0" y="370.0" width="116.0" height="8" fill="#EDEFF2" rx="2"/><rect x="634.0" y="370.0" width="116.0" height="8" fill="#EDEFF2" rx="2"/><line x1="476" y1="388.0" x2="764" y2="388.0" stroke="#9AA0AA" stroke-width="1"/><rect x="490.0" y="396.0" width="116.0" height="8" fill="#D8DBE0" rx="2"/><rect x="634.0" y="396.0" width="116.0" height="8" fill="#D8DBE0" rx="2"/><line x1="476" y1="414.0" x2="764" y2="414.0" stroke="#9AA0AA" stroke-width="1"/><rect x="490.0" y="422.0" width="116.0" height="8" fill="#EDEFF2" rx="2"/><rect x="634.0" y="422.0" width="116.0" height="8" fill="#EDEFF2" rx="2"/><line x1="620.0" y1="310" x2="620.0" y2="440" stroke="#9AA0AA" stroke-width="1" opacity="0.5"/>
+<rect x="476" y="456" width="288" height="110" fill="#FFFFFF" stroke="#9AA0AA" stroke-width="1.3" rx="4"/><rect x="476" y="456" width="288" height="27.5" fill="#EDEFF2" stroke="#9AA0AA" stroke-width="1" rx="0"/><line x1="476" y1="483.5" x2="764" y2="483.5" stroke="#9AA0AA" stroke-width="1"/><rect x="490.0" y="492.25" width="116.0" height="8" fill="#D8DBE0" rx="2"/><rect x="634.0" y="492.25" width="116.0" height="8" fill="#D8DBE0" rx="2"/><line x1="476" y1="511.0" x2="764" y2="511.0" stroke="#9AA0AA" stroke-width="1"/><rect x="490.0" y="519.75" width="116.0" height="8" fill="#EDEFF2" rx="2"/><rect x="634.0" y="519.75" width="116.0" height="8" fill="#EDEFF2" rx="2"/><line x1="476" y1="538.5" x2="764" y2="538.5" stroke="#9AA0AA" stroke-width="1"/><rect x="490.0" y="547.25" width="116.0" height="8" fill="#D8DBE0" rx="2"/><rect x="634.0" y="547.25" width="116.0" height="8" fill="#D8DBE0" rx="2"/><line x1="620.0" y1="456" x2="620.0" y2="566" stroke="#9AA0AA" stroke-width="1" opacity="0.5"/>
+<rect x="460" y="644" width="320" height="56" fill="#FFFFFF" stroke="#9AA0AA" stroke-width="1.2" rx="0"/>
+<circle cx="492.0" cy="662" r="6" fill="none" stroke="#2B2F36" stroke-width="1.4"/>
+<text x="492.0" y="682" font-family="Helvetica, Arial, sans-serif" font-size="8.5" font-weight="700" fill="#2B2F36" text-anchor="middle">Profile</text>
+<circle cx="556.0" cy="662" r="6" fill="none" stroke="#9AA0AA" stroke-width="1.4"/>
+<text x="556.0" y="682" font-family="Helvetica, Arial, sans-serif" font-size="8.5" font-weight="400" fill="#9AA0AA" text-anchor="middle">Attend.</text>
+<circle cx="620.0" cy="662" r="6" fill="none" stroke="#9AA0AA" stroke-width="1.4"/>
+<text x="620.0" y="682" font-family="Helvetica, Arial, sans-serif" font-size="8.5" font-weight="400" fill="#9AA0AA" text-anchor="middle">Marks</text>
+<circle cx="684.0" cy="662" r="6" fill="none" stroke="#9AA0AA" stroke-width="1.4"/>
+<text x="684.0" y="682" font-family="Helvetica, Arial, sans-serif" font-size="8.5" font-weight="400" fill="#9AA0AA" text-anchor="middle">Time.</text>
+<circle cx="748.0" cy="662" r="6" fill="none" stroke="#9AA0AA" stroke-width="1.4"/>
+<text x="748.0" y="682" font-family="Helvetica, Arial, sans-serif" font-size="8.5" font-weight="400" fill="#9AA0AA" text-anchor="middle">AI</text>
+<line x1="785" y1="662" x2="840" y2="634" stroke="#C0392B" stroke-width="1.2" stroke-dasharray="4,3"/><circle cx="785" cy="662" r="2.5" fill="#C0392B"/><text x="846" y="638" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#C0392B" text-anchor="start">Sidebar becomes
+a bottom tab bar</text>
+</svg>
